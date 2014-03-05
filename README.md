@@ -1,4 +1,4 @@
-Simple Automated Web Crawler and Reporter
+# Simple Automated Web Crawler and Reporter
 ==========================================
 
 Crawl a website and email report with relevant information.
